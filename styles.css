@@ -1,0 +1,47 @@
+a {
+    background-color: #add8e6;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    padding: 10px;
+    margin: 5px;
+}
+
+a:hover {
+    background-color: #0000ff;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+    color: blue;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#home {
+   text-align: center; 
+   padding-top: 100px;
+}
+
+.content {
+    margin: 20px;
+    padding: 20px;
+    width: 60%;
+}
+
+img {
+    width: 700px;
+    height: 500px;
+}
+
+.content h1 {
+    font-weight: 80;
+    color: black;
+}
